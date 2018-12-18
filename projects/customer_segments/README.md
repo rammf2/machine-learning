@@ -23,11 +23,11 @@ Template code is provided in the `customer_segments.ipynb` notebook file. You wi
 In a terminal or command window, navigate to the top-level project directory `customer_segments/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook customer_segments.ipynb
+ipython notebook customer_segments_corrected.ipynb
 ```  
 or
 ```bash
-jupyter notebook customer_segments.ipynb
+jupyter notebook ccustomer_segments_corrected.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
